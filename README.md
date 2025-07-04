@@ -1,7 +1,7 @@
 # 📘 LeetCode DSA (150–200 Questions)
 
 ## 🧭 Quick Navigation
-- [Arrays & Hashing](#Aarrays-&-Hashing-20-Questions)
+- [Arrays & Hashing](#Aarrays-and-Hashing)
 - [Two Pointers](#2-two-pointers-10-questions)
 - [Sliding Window](#3-sliding-window-10-questions)
 - [Stack](#4-stack-10-questions)
@@ -21,7 +21,7 @@
 
 ---
 
-## Arrays & Hashing (20 Questions)
+## Arrays and Hashing
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/) (Easy)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (Easy)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Easy)
