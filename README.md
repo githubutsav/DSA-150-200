@@ -1,21 +1,20 @@
-# 📘 LeetCode DSA(150–200 Questions)
+# 📘 LeetCode DSA (150–200 Questions)
 
 ## 🧭 Quick Navigation
-- [Arrays & Hashing](#arrays--hashing-20-questions)
-- [Two Pointers](#two-pointers-10-questions)
-- [Sliding Window](#sliding-window-10-questions)
-- [Stack](#stack-10-questions)
-- [Binary Search](#binary-search-15-questions)
-- [Linked List](#linked-list-15-questions)
-- [Trees & Binary Trees](#trees--binary-trees-20-questions)
-- [Heap / Priority Queue](#heap--priority-queue-10-questions)
-- [Tries](#tries-8-questions)
-- [Graphs](#graphs-20-questions)
-- [Backtracking](#backtracking-12-questions)
-- [Dynamic Programming](#dynamic-programming-30-questions)
-- [Greedy](#greedy-10-questions)
-- [Bit Manipulation](#bit-manipulation-10-questions)
-
+- [Arrays & Hashing](#1-arrays--hashing-20-questions)
+- [Two Pointers](#2-two-pointers-10-questions)
+- [Sliding Window](#3-sliding-window-10-questions)
+- [Stack](#4-stack-10-questions)
+- [Binary Search](#5-binary-search-15-questions)
+- [Linked List](#6-linked-list-15-questions)
+- [Trees & Binary Trees](#7-trees--binary-trees-20-questions)
+- [Heap / Priority Queue](#8-heap--priority-queue-10-questions)
+- [Tries](#9-tries-8-questions)
+- [Graphs](#10-graphs-20-questions)
+- [Backtracking](#11-backtracking-12-questions)
+- [Dynamic Programming](#12-dynamic-programming-30-questions)
+- [Greedy](#13-greedy-10-questions)
+- [Bit Manipulation](#14-bit-manipulation-10-questions)
 
 ✅ Problems Solved: 0 / 200  
 📅 Last Updated: July 4, 2025
