@@ -1,7 +1,7 @@
 # 📘 LeetCode DSA (150–200 Questions)
 
 ## 🧭 Quick Navigation
-- [Arrays & Hashing](#1-arrays--hashing-20-questions)
+- [Arrays & Hashing](#1-arrays-&-hashing-20-questions)
 - [Two Pointers](#2-two-pointers-10-questions)
 - [Sliding Window](#3-sliding-window-10-questions)
 - [Stack](#4-stack-10-questions)
