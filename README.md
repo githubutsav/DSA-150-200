@@ -1,27 +1,7 @@
 # 📘 LeetCode DSA (150–200 Questions)
 
-## 🧭 Quick Navigation
-- [Arrays and Hashing](#Aarrays-and-Hashing)
-- [Two Pointers](#2-two-pointers-10-questions)
-- [Sliding Window](#3-sliding-window-10-questions)
-- [Stack](#4-stack-10-questions)
-- [Binary Search](#5-binary-search-15-questions)
-- [Linked List](#6-linked-list-15-questions)
-- [Trees & Binary Trees](#7-trees--binary-trees-20-questions)
-- [Heap / Priority Queue](#8-heap--priority-queue-10-questions)
-- [Tries](#9-tries-8-questions)
-- [Graphs](#10-graphs-20-questions)
-- [Backtracking](#11-backtracking-12-questions)
-- [Dynamic Programming](#12-dynamic-programming-30-questions)
-- [Greedy](#13-greedy-10-questions)
-- [Bit Manipulation](#14-bit-manipulation-10-questions)
 
-✅ Problems Solved: 0 / 200  
-📅 Last Updated: July 4, 2025
-
----
-
-## Arrays and Hashing
+##   1.Arrays and Hashing
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/) (Easy)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (Easy)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Easy)
