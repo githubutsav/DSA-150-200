@@ -1,7 +1,7 @@
 # 📘 LeetCode DSA (150–200 Questions)
 
 
-##   1.Arrays and Hashing
+## 📂 1.Arrays and Hashing
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/) (Easy)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (Easy)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Easy)
